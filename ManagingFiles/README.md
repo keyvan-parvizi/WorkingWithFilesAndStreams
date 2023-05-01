@@ -1,3 +1,3 @@
-Managing Files
-Managing Paths
+Managing Files\
+Managing Paths\
 Getting File Information
