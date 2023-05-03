@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagingFiles", "ManagingFi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingToTextStream", "WritingToTextStream\WritingToTextStream.csproj", "{C5F22C5B-7089-4342-A185-9E4D2683616E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingToXMLStreams", "WritingToXMLStreams\WritingToXMLStreams.csproj", "{57C69908-DA33-428A-899F-3E75CEFDB3C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingToXMLStreams", "WritingToXMLStreams\WritingToXMLStreams.csproj", "{57C69908-DA33-428A-899F-3E75CEFDB3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposingOfFileResources", "DisposingOfFileResources\DisposingOfFileResources.csproj", "{AE8C3CC0-9543-4058-A542-C55A853CE729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{57C69908-DA33-428A-899F-3E75CEFDB3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C69908-DA33-428A-899F-3E75CEFDB3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C69908-DA33-428A-899F-3E75CEFDB3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8C3CC0-9543-4058-A542-C55A853CE729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8C3CC0-9543-4058-A542-C55A853CE729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8C3CC0-9543-4058-A542-C55A853CE729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8C3CC0-9543-4058-A542-C55A853CE729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
