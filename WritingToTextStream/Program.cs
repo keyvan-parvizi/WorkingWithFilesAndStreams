@@ -7,6 +7,7 @@ WorkingWithText();
 
 static void WorkingWithText()
 {
+    //define an array
     var names = new string[] { "X", "Y", "Z" };
 
     //define a file to write to
